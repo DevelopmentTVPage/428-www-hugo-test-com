@@ -45,7 +45,6 @@
     "CVV_VI": "3",
     "engagement_score": 14,
     "conversion_score": "75",
-    "metrics_statistics": "{\"VV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"engagement_score\":{\"lastUpdatedDate\":\"2017-08-23\"}},\"CVV_VI\":{\"lastUpdatedDate\":\"2017-05-24\",\"conversion_score\":{\"lastUpdatedDate\":\"2017-05-27\"}}}",
     "delete": null,
     "notes": null,
     "uploader": null,
